@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="http://img.netbian.com/file/2021/0317/4120bc42500eb9be6082f23b6071c1c5.jpg">
+    <img src="http://103.45.111.35/usr/themes/GreenGrapes/img/head.jpg">
     <h1>好美嗷</h1>
     <h1>好美嗷</h1>
     <h1>好美嗷</h1>
